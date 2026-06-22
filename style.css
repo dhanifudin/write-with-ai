@@ -1,0 +1,18 @@
+/* Fix Slidev #2534: GotoDialog stays visible when a presentation has many slides.
+   When closed, the dialog gets class `-top-20` (top: -80px), but its autocomplete
+   list grows with slide count and overflows back down into the viewport.
+   This rule fully hides the dialog in its closed state; opening it (press `g`)
+   switches to class `top-5`, so the rule no longer matches and the feature works normally. */
+#slidev-goto-dialog.-top-20 {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Compact code blocks on Prompt Library appendix slides so all 5 prompts fit
+   within one slide without overflowing. The `prompt-lib` class is set in each
+   slide's frontmatter (`class: prompt-lib`). */
+.prompt-lib pre,
+.prompt-lib pre code {
+  font-size: 0.72rem;
+  line-height: 1.25;
+}
