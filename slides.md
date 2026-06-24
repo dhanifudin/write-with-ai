@@ -27,7 +27,7 @@ Panduan Praktis bagi Dosen
 
 **Dian Hanifudin Subhi** · Jurusan Teknologi Informasi, Politeknik Negeri Malang
 
-dhanifudin.com · linkedin.com/in/dhanifudin
+[dhanifudin.com](https://dhanifudin.com) · [linkedin.com/in/dhanifudin](https://linkedin.com/in/dhanifudin)
 
 <div class="abs-b m-6 text-sm opacity-60 text-left">
   🤖 Presentasi ini 100% ditulis dengan Agentic AI &nbsp;·&nbsp; GitHub Pages: dhanifudin.github.io/write-with-ai

@@ -140,3 +140,99 @@ layout: default
 Slide yang baik adalah presentasi, bukan buku yang dicetak kecil.
 Tekankan: tugas AI adalah membuat draft slide yang efisien — tugas dosen adalah memastikan alur narasi tetap ada.
 -->
+
+---
+layout: default
+---
+
+# Skill & Kapabilitas yang Mempercepat Buku Teknis
+
+*Kapabilitas ini bersifat agnostik — berlaku di AI tool manapun.*
+
+<div class="grid grid-cols-3 gap-3 mt-4 text-sm">
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">🗂️ Outline & Struktur</h3>
+<p class="mt-2">Generate peta bab dari RPS, usulkan urutan sub-bab, identifikasi gap konten sebelum mulai menulis.</p>
+</div>
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">📝 Konsistensi Glosarium</h3>
+<p class="mt-2">Cek istilah lintas bab, standardisasi terminologi, bandingkan dengan glosarium proyek.</p>
+</div>
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">🔖 Penanda Sitasi</h3>
+<p class="mt-2">Tandai <code>[SITASI?]</code> & <code>[VERIFIKASI]</code> otomatis di setiap klaim faktual — cegah referensi palsu.</p>
+</div>
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">🔄 Konversi Format</h3>
+<p class="mt-2">Markdown → DOCX → PDF → Slide (Slidev/Marp). Satu naskah, banyak output format.</p>
+</div>
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">📊 Tabel & Diagram</h3>
+<p class="mt-2">Generate tabel perbandingan, diagram alur ASCII/Mermaid, dan ilustrasi konsep langsung dari teks bab.</p>
+</div>
+
+<div class="border rounded-lg p-3">
+<h3 class="font-bold">✅ Cek Keterbacaan</h3>
+<p class="mt-2">Evaluasi tingkat kesulitan teks, konsistensi gaya penulisan, dan kejelasan kalimat per sub-bab.</p>
+</div>
+
+</div>
+
+<!--
+Ini adalah "menu kapabilitas" yang bisa dipilih audiens sesuai kebutuhan mereka.
+Tekankan: semua ini bisa dilakukan dengan instruksi prompt biasa — tapi tool yang punya Skills bisa menjalankannya satu klik.
+-->
+
+---
+layout: default
+---
+
+# Contoh Skill Konkret: Claude Code & opencode
+
+<div class="mt-3 border-l-4 border-yellow-400 pl-3 text-sm mb-4">
+  <strong>💡 Contoh berlabel</strong> — tool-spesifik. Kapabilitas dasarnya (slide sebelumnya) berlaku di AI manapun.
+</div>
+
+<div class="grid grid-cols-2 gap-6 text-sm">
+<div>
+
+## 🔧 Custom Skills / Slash Commands
+
+Buat perintah reusable untuk workflow buku Anda:
+
+| Skill | Fungsi |
+|---|---|
+| `/outline-bab` | Generate outline dari RPS + glosarium |
+| `/draft-subbab` | Draft 1 sub-bab dengan penanda SITASI? |
+| `/cek-sitasi` | Validasi semua referensi di file aktif |
+| `/sync-rps` | Sinkronisasi RPS dengan struktur bab final |
+| `/gen-slide` | Konversi sub-bab ke format Slidev |
+
+</div>
+<div>
+
+## ⚙️ Fitur Agentic Lanjutan
+
+- **Subagents** — proses beberapa bab secara paralel dalam satu sesi
+- **File access** — baca seluruh folder proyek buku sekaligus
+- **MCP tools** — sambungkan ke database referensi atau Zotero
+- **Persistent memory** — CLAUDE.md / project config dimuat otomatis setiap sesi
+
+**Cara mulai:**
+```text
+Simpan RPS + glosarium dalam folder proyek.
+Jalankan: claude "Buat peta bab dari RPS ini"
+```
+
+</div>
+</div>
+
+<!--
+Skills/slash-commands adalah cara paling efisien untuk menyimpan workflow buku yang sudah terbukti dan menjalankannya ulang tanpa mengetik prompt panjang setiap kali.
+Arahkan audiens yang tertarik ke dokumentasi Claude Code / opencode untuk membuat skill pertama mereka.
+-->

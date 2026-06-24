@@ -144,6 +144,56 @@ Bedanya: dengan AI, siklus revisi bisa selesai dalam menit, bukan minggu.
 layout: default
 ---
 
+# Mode Kerja Agen: *Plan* dulu, *Execute* kemudian
+
+<div class="grid grid-cols-2 gap-6 mt-4 text-sm">
+<div class="border rounded-lg p-4 bg-blue-50">
+
+## 🧭 Plan Mode
+
+Agent **merencanakan & menganalisis** — tidak menulis apapun sampai Anda setuju.
+
+**Gunakan untuk:**
+- Membuat peta bab dari RPS
+- Merancang outline buku
+- Mengusulkan struktur konten baru
+- Menganalisis kekurangan draft
+
+**Prinsip:** *Rencanakan → setujui → baru eksekusi.*
+Anda menghindari pekerjaan yang harus dibuang.
+
+</div>
+<div class="border rounded-lg p-4 bg-green-50">
+
+## ⚡ Execute / Auto Mode
+
+Agent **langsung mengerjakan** — menulis file, mengedit, menghasilkan konten.
+
+**Gunakan untuk:**
+- Menulis draf sub-bab yang sudah dioutline
+- Menyeragamkan istilah lintas bab
+- Generate slide dari bab yang sudah disetujui
+- Tugas berulang yang risikonya rendah
+
+**Prinsip:** *Tetap verifikasi output* — terutama fakta & referensi.
+
+</div>
+</div>
+
+<div class="mt-3 border-l-4 border-yellow-400 pl-4 text-sm">
+  <strong>💡 Contoh berlabel:</strong> <strong>Claude Code</strong> dan <strong>opencode</strong> mendukung <em>Plan Mode</em> (toggle dengan <kbd>Shift+Tab</kbd> atau flag <code>--plan</code>). Dalam Plan Mode, agent tidak mengubah file apapun — hanya mengusulkan langkah. Sangat aman untuk sesi pemetaan bab dari RPS.
+</div>
+
+<!--
+Analogi: Plan Mode = rapat desain bersama arsitek sebelum mulai membangun.
+Execute Mode = kontraktor yang sudah punya blueprint yang disetujui.
+Dosen sebagai director: gunakan Plan Mode untuk semua keputusan struktural, Execute untuk tugas drafting yang sudah jelas.
+-->
+
+---
+layout: default
+---
+
 # Proyek Panjang: Memory, Chunking & Continuity
 
 **Buku bukan sprint — ini maraton. AI agentik dirancang untuk itu.**

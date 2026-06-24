@@ -31,6 +31,56 @@ Jangan rekomendasikan satu tool — berikan framework evaluasi. Audiens memiliki
 layout: default
 ---
 
+# Coba Sendiri: Claude Code & opencode
+
+<div class="mt-3 border-l-4 border-yellow-400 pl-3 text-sm mb-4">
+  <strong>💡 Contoh berlabel</strong> — ini dua tool yang digunakan untuk membuat presentasi ini. Bukan satu-satunya pilihan — tapi keduanya mendukung hampir semua kapabilitas di tabel sebelumnya. Link di bawah adalah <strong>link referral pembicara</strong> — Anda mendapatkan akses yang sama, pembicara mungkin mendapat manfaat kecil. Transparan karena jujur.
+</div>
+
+<div class="grid grid-cols-2 gap-6 text-sm">
+
+<div class="border-2 rounded-xl p-5">
+<h2 class="font-bold text-lg mb-2">🤖 Claude Code</h2>
+
+**Oleh:** Anthropic
+
+Agentic CLI resmi untuk Claude. Mendukung Plan Mode, persistent memory (CLAUDE.md), custom Skills, subagents, dan akses file lokal.
+
+**Cocok untuk:** Proyek buku multi-sesi panjang dengan file konteks kompleks.
+
+<div class="mt-4 border rounded p-3 bg-gray-50 text-center">
+  <div class="font-bold">🔗 Link Referral</div>
+  <div class="mt-1">[claude.ai/referral →](https://claude.ai/referral/kPKYOfLT0g)</div>
+</div>
+</div>
+
+<div class="border-2 rounded-xl p-5">
+<h2 class="font-bold text-lg mb-2">⚡ opencode</h2>
+
+**Oleh:** komunitas open-source
+
+Agentic CLI open-source yang kompatibel dengan berbagai model AI (termasuk Claude). Ringan, dapat dikustomisasi, dan berjalan di terminal.
+
+**Cocok untuk:** Dosen yang ingin fleksibilitas penuh dan kontrol atas model yang digunakan.
+
+<div class="mt-4 border rounded p-3 bg-gray-50 text-center">
+  <div class="font-bold">🔗 Link Referral</div>
+  <div class="mt-1">[opencode.ai/go →](https://opencode.ai/go?ref=5Y782KD90K)</div>
+</div>
+</div>
+
+</div>
+
+<!--
+Keduanya gratis untuk dicoba. Link referral di atas — scan atau klik langsung dari slide.
+Claude Code: pengalaman paling terintegrasi untuk proyek buku panjang.
+opencode: pilihan jika ingin open-source dan kontrol penuh atas model AI yang digunakan.
+-->
+
+---
+layout: default
+---
+
 # Key Takeaways: Mulai Hari Ini
 
 <div class="grid grid-cols-2 gap-6 mt-4">
@@ -110,7 +160,7 @@ class: text-center
 **Dian Hanifudin Subhi**
 Jurusan Teknologi Informasi · Politeknik Negeri Malang
 
-linkedin.com/in/dhanifudin · dhanifudin.com
+[linkedin.com/in/dhanifudin](https://linkedin.com/in/dhanifudin) · [dhanifudin.com](https://dhanifudin.com)
 
 <div class="mt-6 grid grid-cols-3 gap-4 text-sm max-w-lg mx-auto">
 <div class="border rounded p-3">

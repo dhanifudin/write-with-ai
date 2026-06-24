@@ -71,3 +71,53 @@ layout: default
 Bacakan agenda singkat. Tekankan bahwa ini bukan demo satu produk — prinsip yang diajarkan berlaku untuk tool AI manapun.
 Estimasi waktu: ~45-60 menit dengan sedikit tanya jawab di akhir.
 -->
+
+---
+layout: default
+---
+
+# Tentang Pembicara
+
+<div class="grid grid-cols-3 gap-6 mt-4">
+<div class="text-center">
+
+<div class="text-6xl mb-3">👤</div>
+
+**Dian Hanifudin Subhi**
+
+Jurusan Teknologi Informasi
+Politeknik Negeri Malang
+
+<div class="mt-3 text-sm">
+
+[dhanifudin.com](https://dhanifudin.com)
+[linkedin.com/in/dhanifudin](https://linkedin.com/in/dhanifudin)
+
+</div>
+</div>
+<div class="col-span-2 text-sm">
+
+## Fokus & Keahlian
+
+- 🎓 Dosen Jurusan Teknologi Informasi, Politeknik Negeri Malang
+- 🤖 Praktisi **Agentic AI** untuk pengembangan konten akademik
+- 📖 [Bidang riset / keahlian utama — *tambahkan*]
+- 🏆 [Prestasi atau proyek unggulan — *tambahkan*]
+
+## Mengapa Topik Ini?
+
+> *"Saya mulai menggunakan agentic AI untuk menyusun materi kuliah — dan menyadari bahwa
+> alur yang sama bisa menghasilkan buku ber-ISBN dalam hitungan minggu, bukan tahun."*
+
+- Berpengalaman dalam pengajuan ISBN melalui Perpusnas
+- [Jumlah buku / artikel yang telah diterbitkan — *tambahkan*]
+- Topik ini bisa langsung dipraktikkan setelah sesi selesai
+
+</div>
+</div>
+
+<!--
+Perkenalan singkat — jangan terlalu panjang, audiens sudah tahu Anda dari undangan.
+Tekankan satu hal: Anda menggunakan AI ini sendiri untuk menulis buku & membuat presentasi ini.
+Isi bagian [*tambahkan*] dengan info spesifik sebelum hari presentasi.
+-->
