@@ -99,25 +99,24 @@ Politeknik Negeri Malang
 
 ## Fokus & Keahlian
 
-- 🎓 Dosen Jurusan Teknologi Informasi, Politeknik Negeri Malang
-- 🤖 Praktisi **Agentic AI** untuk pengembangan konten akademik
-- 📖 [Bidang riset / keahlian utama — *tambahkan*]
-- 🏆 [Prestasi atau proyek unggulan — *tambahkan*]
+- 🎓 Dosen **D4 Teknik Informatika**, Jurusan Teknologi Informasi, Politeknik Negeri Malang
+- 💻 Bidang: **software & web development**, *cloud computing*
+- 🔬 Riset terapan informatika (mis. *machine learning* / analisis sentimen) — terindeks **SINTA & Google Scholar**
+- 🤖 Menggunakan **agentic AI** dalam menyusun materi ajar — termasuk presentasi ini
 
 ## Mengapa Topik Ini?
 
 > *"Saya mulai menggunakan agentic AI untuk menyusun materi kuliah — dan menyadari bahwa
 > alur yang sama bisa menghasilkan buku ber-ISBN dalam hitungan minggu, bukan tahun."*
 
-- Berpengalaman dalam pengajuan ISBN melalui Perpusnas
-- [Jumlah buku / artikel yang telah diterbitkan — *tambahkan*]
-- Topik ini bisa langsung dipraktikkan setelah sesi selesai
+- Rutin **menyusun materi kuliah** & membimbing tugas akhir mahasiswa
+- Tertarik pada alur kerja AI yang bisa langsung dipakai dosen lain
+- Materi ini berangkat dari **praktik langsung**, bukan teori semata
 
 </div>
 </div>
 
 <!--
 Perkenalan singkat — jangan terlalu panjang, audiens sudah tahu Anda dari undangan.
-Tekankan satu hal: Anda menggunakan AI ini sendiri untuk menulis buku & membuat presentasi ini.
-Isi bagian [*tambahkan*] dengan info spesifik sebelum hari presentasi.
+Tekankan satu hal: Anda menggunakan AI ini sendiri untuk menyusun materi & membuat presentasi ini.
 -->
