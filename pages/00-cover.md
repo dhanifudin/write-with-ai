@@ -8,6 +8,7 @@ layout: default
 <div class="border-r pr-6">
 
 ## ❌ Dulu — Tantangan Nyata
+
 - Menulis buku = bertahun-tahun
 - Konsistensi istilah = mimpi buruk
 - RPS dan buku tidak sinkron
@@ -18,6 +19,7 @@ layout: default
 <div class="pl-2">
 
 ## ✅ Sekarang dengan Agentic AI
+
 - Draft pertama dalam hitungan hari
 - AI menjaga konsistensi sepanjang buku
 - RPS → buku → slide: satu alur mulus
@@ -36,29 +38,29 @@ Hook utama. Buat audiens merasa "ini untuk saya". Hampir setiap dosen punya RPS 
 -->
 
 ---
-layout: default
----
+
+## layout: default
 
 # Agenda Hari Ini
 
 <div class="grid grid-cols-2 gap-6 mt-4">
 <div>
 
-| Bagian | Topik |
-|---|---|
-| **Bagian 1** | 🤖 Fondasi: Apa itu Agentic AI? |
-| **Bagian 2** | 📋 RPS-First: RPS sebagai *Source of Truth* |
-| **Bagian 3** | ✍️ Alur Menulis Universal |
+| Bagian       | Topik                                       |
+| ------------ | ------------------------------------------- |
+| **Bagian 1** | 🤖 Fondasi: Apa itu Agentic AI?             |
+| **Bagian 2** | 📋 RPS-First: RPS sebagai _Source of Truth_ |
+| **Bagian 3** | ✍️ Alur Menulis Universal                   |
 
 </div>
 <div>
 
-| Bagian | Topik |
-|---|---|
-| **Bagian 4** | 💬 Teknik Prompt & Context |
+| Bagian       | Topik                                          |
+| ------------ | ---------------------------------------------- |
+| **Bagian 4** | 💬 Teknik Prompt & Context                     |
 | **Bagian 5** | 📚 Playbook Akademik: Buku Ajar · ISBN · Slide |
-| **Bagian 6** | ✅ Kualitas, Etika & Praktik |
-| **Penutup** | 🛠️ Tool Landscape · 📎 Prompt Library |
+| **Bagian 6** | ✅ Kualitas, Etika & Praktik                   |
+| **Penutup**  | 🛠️ Tool Landscape · 📎 Prompt Library          |
 
 </div>
 </div>
@@ -73,8 +75,8 @@ Estimasi waktu: ~45-60 menit dengan sedikit tanya jawab di akhir.
 -->
 
 ---
-layout: default
----
+
+## layout: default
 
 # Tentang Pembicara
 
@@ -91,6 +93,7 @@ Politeknik Negeri Malang
 <div class="mt-3 text-sm">
 
 [dhanifudin.com](https://dhanifudin.com)
+
 [linkedin.com/in/dhanifudin](https://linkedin.com/in/dhanifudin)
 
 </div>
@@ -100,14 +103,14 @@ Politeknik Negeri Malang
 ## Fokus & Keahlian
 
 - 🎓 Dosen **D4 Teknik Informatika**, Jurusan Teknologi Informasi, Politeknik Negeri Malang
-- 💻 Bidang: **software & web development**, *cloud computing*
-- 🔬 Riset terapan informatika (mis. *machine learning* / analisis sentimen) — terindeks **SINTA & Google Scholar**
+- 💻 Bidang: **software & web development**, _cloud computing_
+- 🔬 Riset terapan informatika terindeks **SINTA & Google Scholar**
 - 🤖 Menggunakan **agentic AI** dalam menyusun materi ajar — termasuk presentasi ini
 
 ## Mengapa Topik Ini?
 
-> *"Saya mulai menggunakan agentic AI untuk menyusun materi kuliah — dan menyadari bahwa
-> alur yang sama bisa menghasilkan buku ber-ISBN dalam hitungan minggu, bukan tahun."*
+> _"Saya mulai menggunakan agentic AI untuk menyusun materi kuliah — dan menyadari bahwa
+> alur yang sama bisa menghasilkan buku ber-ISBN dalam hitungan minggu, bukan tahun."_
 
 - Rutin **menyusun materi kuliah** & membimbing tugas akhir mahasiswa
 - Tertarik pada alur kerja AI yang bisa langsung dipakai dosen lain
