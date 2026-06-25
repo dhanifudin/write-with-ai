@@ -190,6 +190,47 @@ Buka sesi tanya jawab. Pertanyaan yang sering muncul:
 
 ---
 layout: default
+class: scrollable
+---
+
+# TL;DR — Dari RPS ke Buku, Langkah demi Langkah
+
+<div class="mt-3 text-center text-sm font-semibold tracking-wide opacity-70">
+  Siapkan → Rencanakan → Tulis → Periksa → Terbitkan
+</div>
+
+<div class="mt-4 text-sm">
+
+| # | Langkah | Apa yang Anda minta ke AI |
+|:---:|---|---|
+| 1 | **Siapkan bahan** | Kumpulkan RPS Anda dalam satu file; jadikan itu "ingatan" AI sepanjang proyek. |
+| 2 | **Minta peta bab** | Minta AI mengubah RPS menjadi daftar bab — setujui dulu sebelum menulis apa pun. |
+| 3 | **Susun kerangka** | Minta rincian isi tiap bab: sub-bab dan poin-poin utamanya. |
+| 4 | **Tulis per bagian** | Minta AI menulis satu bagian kecil, dan menandai kalimat yang butuh sumber. |
+| 5 | **Periksa & rapikan** | Minta AI memeriksa kejelasan dan konsistensi istilah antar bab. |
+| 6 | **Pilih judul** | Minta judul yang terasa seperti buku umum — agar lolos syarat ISBN. |
+| 7 | **Cek sumber** | Minta AI menandai referensi yang perlu Anda periksa sendiri. |
+| 8 | **Buat slide** | Minta AI mengubah isi bab menjadi slide kuliah. |
+| 9 | **Selaraskan RPS** | Minta AI merapikan RPS agar cocok dengan struktur buku yang sudah jadi. |
+
+</div>
+
+<div class="mt-4 border-l-4 border-red-400 pl-3 text-sm">
+  ⚠️ <strong>Selalu periksa fakta & referensi</strong> — AI bisa keliru, terutama pada angka dan kutipan.
+</div>
+
+<div class="mt-3 text-xs opacity-50 text-right">
+  💡 Contoh kalimat lengkap untuk tiap langkah ada di Lampiran berikutnya.
+</div>
+
+<!--
+Ini adalah ringkasan seluruh sesi dalam satu slide — cocok untuk screenshot atau dijadikan handout.
+Tekankan: ini bukan urutan yang kaku; langkah 2–3 bisa diulang sebelum mulai menulis.
+Selalu periksa sendiri setiap fakta dan referensi yang AI hasilkan.
+-->
+
+---
+layout: default
 class: prompt-lib
 ---
 

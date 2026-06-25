@@ -16,3 +16,10 @@
   font-size: 0.72rem;
   line-height: 1.25;
 }
+
+/* Opt-in scrollable slide: content taller than the fixed 980×552 canvas scrolls
+   within the slide frame instead of clipping at the bottom.
+   Apply via `class: scrollable` in a slide's frontmatter. */
+.slidev-layout.scrollable {
+  overflow-y: auto;
+}
