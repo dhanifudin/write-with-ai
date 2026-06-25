@@ -24,7 +24,7 @@ layout: default
 - Ditulis sebagai **pegangan mata kuliah**
 - Urutan mengikuti silabus/RPS
 - Ada latihan, studi kasus, rangkuman
-- Bahasa lebih accessible
+- Bahasa lebih mudah dipahami
 - Target: mahasiswa yang belajar
 
 **Contoh judul:**

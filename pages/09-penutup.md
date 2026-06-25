@@ -50,7 +50,7 @@ Agentic CLI resmi untuk Claude. Mendukung Plan Mode, persistent memory (CLAUDE.m
 
 <div class="mt-4 border rounded p-3 bg-gray-50 text-center">
   <div class="font-bold">🔗 Link Referral</div>
-  <div class="mt-1">[claude.ai/referral →](https://claude.ai/referral/kPKYOfLT0g)</div>
+  <div class="mt-1"><a href="https://claude.ai/referral/kPKYOfLT0g" target="_blank" rel="noopener">claude.ai/referral →</a></div>
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Agentic CLI open-source yang kompatibel dengan berbagai model AI (termasuk Claud
 
 <div class="mt-4 border rounded p-3 bg-gray-50 text-center">
   <div class="font-bold">🔗 Link Referral</div>
-  <div class="mt-1">[opencode.ai/go →](https://opencode.ai/go?ref=5Y782KD90K)</div>
+  <div class="mt-1"><a href="https://opencode.ai/go?ref=5Y782KD90K" target="_blank" rel="noopener">opencode.ai/go →</a></div>
 </div>
 </div>
 
@@ -190,37 +190,32 @@ Buka sesi tanya jawab. Pertanyaan yang sering muncul:
 
 ---
 layout: default
-class: scrollable
 ---
 
-# TL;DR — Dari RPS ke Buku, Langkah demi Langkah
+# TL;DR — Dari RPS ke Buku Ber-ISBN
 
-<div class="mt-3 text-center text-sm font-semibold tracking-wide opacity-70">
+<div class="mt-2 text-center text-sm font-semibold tracking-wide opacity-70">
   Siapkan → Rencanakan → Tulis → Periksa → Terbitkan
 </div>
 
-<div class="mt-4 text-sm">
+<div class="mt-3 tldr-table">
 
-| # | Langkah | Apa yang Anda minta ke AI |
+| # | Langkah | Minta ke AI |
 |:---:|---|---|
-| 1 | **Siapkan bahan** | Kumpulkan RPS Anda dalam satu file; jadikan itu "ingatan" AI sepanjang proyek. |
-| 2 | **Minta peta bab** | Minta AI mengubah RPS menjadi daftar bab — setujui dulu sebelum menulis apa pun. |
-| 3 | **Susun kerangka** | Minta rincian isi tiap bab: sub-bab dan poin-poin utamanya. |
-| 4 | **Tulis per bagian** | Minta AI menulis satu bagian kecil, dan menandai kalimat yang butuh sumber. |
-| 5 | **Periksa & rapikan** | Minta AI memeriksa kejelasan dan konsistensi istilah antar bab. |
-| 6 | **Pilih judul** | Minta judul yang terasa seperti buku umum — agar lolos syarat ISBN. |
-| 7 | **Cek sumber** | Minta AI menandai referensi yang perlu Anda periksa sendiri. |
-| 8 | **Buat slide** | Minta AI mengubah isi bab menjadi slide kuliah. |
-| 9 | **Selaraskan RPS** | Minta AI merapikan RPS agar cocok dengan struktur buku yang sudah jadi. |
+| 1 | **Siapkan bahan** | Kumpulkan RPS dalam satu file konteks. |
+| 2 | **Minta peta bab** | Ubah RPS menjadi daftar bab; setujui dulu. |
+| 3 | **Susun kerangka** | Rincian tiap bab: sub-bab & poin utama. |
+| 4 | **Tulis per bagian** | Tulis satu bagian; tandai yang butuh sumber. |
+| 5 | **Periksa & rapikan** | Cek kejelasan & konsistensi istilah antar bab. |
+| 6 | **Pilih judul** | Judul bergaya buku umum, agar lolos ISBN. |
+| 7 | **Cek sumber** | Tandai referensi yang perlu Anda periksa. |
+| 8 | **Buat slide** | Ubah isi bab menjadi slide kuliah. |
+| 9 | **Selaraskan RPS** | Rapikan RPS agar cocok dengan buku final. |
 
 </div>
 
-<div class="mt-4 border-l-4 border-red-400 pl-3 text-sm">
-  ⚠️ <strong>Selalu periksa fakta & referensi</strong> — AI bisa keliru, terutama pada angka dan kutipan.
-</div>
-
-<div class="mt-3 text-xs opacity-50 text-right">
-  💡 Contoh kalimat lengkap untuk tiap langkah ada di Lampiran berikutnya.
+<div class="mt-3 border-l-4 border-red-400 pl-3 text-sm">
+  ⚠️ <strong>Selalu periksa fakta & referensi</strong> — AI bisa keliru. Contoh kalimat lengkap tiap langkah ada di Lampiran berikutnya.
 </div>
 
 <!--

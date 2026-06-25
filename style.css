@@ -8,18 +8,28 @@
   pointer-events: none;
 }
 
-/* Compact code blocks on Prompt Library appendix slides so all 5 prompts fit
-   within one slide without overflowing. The `prompt-lib` class is set in each
-   slide's frontmatter (`class: prompt-lib`). */
-.prompt-lib pre,
+/* Compact code blocks on Prompt Library appendix slides so the prompt list fits
+   within the slide frame. The `prompt-lib` class is set in each slide's frontmatter.
+   The `pre` gets a height cap so only the code block scrolls — the heading and intro
+   line above it stay fixed. */
+.prompt-lib pre {
+  font-size: 0.72rem;
+  line-height: 1.25;
+  max-height: 380px;  /* fits within the ~472px usable area below the heading/intro */
+  overflow-y: auto;   /* scroll the prompt list inside the block, not the whole slide */
+}
 .prompt-lib pre code {
   font-size: 0.72rem;
   line-height: 1.25;
 }
 
-/* Opt-in scrollable slide: content taller than the fixed 980×552 canvas scrolls
-   within the slide frame instead of clipping at the bottom.
-   Apply via `class: scrollable` in a slide's frontmatter. */
-.slidev-layout.scrollable {
-  overflow-y: auto;
+/* Compact the TL;DR recap table so all 9 steps fit the fixed 980×552 canvas
+   without clipping. Applied via class="tldr-table" on the table wrapper div. */
+.tldr-table table {
+  font-size: 0.8rem;
+}
+.tldr-table td,
+.tldr-table th {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }

@@ -106,7 +106,7 @@ Bab yang dimulai tanpa outline sering "melantur" dan harus ditulis ulang.
 layout: default
 ---
 
-# Drafting Per Bab
+# Drafting Per Sub-bab
 
 **Prinsip:** Satu sub-bab per sesi. Konteks selalu dibawa.
 

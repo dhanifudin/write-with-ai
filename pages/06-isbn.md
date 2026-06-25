@@ -13,7 +13,7 @@ layout: default
 **Di Indonesia:** diterbitkan oleh **Perpustakaan Nasional RI (Perpusnas)**
 - Portal: isbn.perpusnas.go.id
 - Gratis untuk penerbit resmi
-- Proses: online, ~beberapa hari kerja
+- Proses: online, beberapa hari kerja
 
 ## Mengapa Penting?
 - ✅ Legitimasi akademik & kelembagaan

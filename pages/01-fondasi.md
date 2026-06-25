@@ -5,6 +5,8 @@ layout: section
 # Bagian 1
 ## Fondasi: Apa itu Agentic AI?
 
+*Memahami Cara Kerja AI Agentik*
+
 <!--
 Transisi masuk ke fondasi. Tekankan: ini bukan kuliah teknis — cukup pahami konsepnya untuk bisa menggunakannya.
 -->

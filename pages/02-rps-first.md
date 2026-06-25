@@ -25,7 +25,7 @@ layout: default
 
 RPS Anda sudah berisi:
 - ✅ **CPL** → Capaian Pembelajaran Lulusan
-- ✅ **CPMK** → Capaian Per Mata Kuliah
+- ✅ **CPMK** → Capaian Pembelajaran Mata Kuliah
 - ✅ **Sub-CPMK** per pertemuan
 - ✅ **Materi** 16 minggu terstruktur
 - ✅ **Asesmen** & bobot penilaian
@@ -37,14 +37,14 @@ RPS Anda sudah berisi:
 ## Apa yang Diturunkan dari RPS
 
 ```
-          RPS
-         /   \
-        ▼     ▼
-    BUKU    SLIDE KULIAH
-    AJAR      per bab
-      \        /
-       ▼      ▼
-       Sinkron 100%
+             RPS
+          /   |   \
+         ▼    ▼    ▼
+      BUKU  SLIDE  RPS
+      AJAR  KULIAH FINAL
+         \    |   /
+          ▼   ▼  ▼
+         Sinkron 100%
 ```
 
 > Satu sumber → tiga deliverable.
@@ -119,7 +119,7 @@ Simpan dalam satu file: `rps-konteks.md`
 # Konteks Buku: [Nama MK]
 - Judul buku target: ...
 - Audiens: mahasiswa S1 semester 3
-- Gaya: akademik tapi accessible
+- Gaya: akademik tapi mudah dipahami
 - Istilah baku: [glosarium]
 - RPS lengkap: [tempel isi RPS]
 - Struktur bab: [peta bab]

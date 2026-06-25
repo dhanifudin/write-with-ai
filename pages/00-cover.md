@@ -105,11 +105,11 @@ Politeknik Negeri Malang
 - 🎓 Dosen **D4 Teknik Informatika**, Jurusan Teknologi Informasi, Politeknik Negeri Malang
 - 💻 Bidang: **software & web development**, _cloud computing_
 - 🔬 Riset terapan informatika terindeks **SINTA & Google Scholar**
-- 🤖 Menggunakan **agentic AI** dalam menyusun materi ajar — termasuk presentasi ini
+- 🤖 Menggunakan **AI agentik** dalam menyusun materi ajar — termasuk presentasi ini
 
 ## Mengapa Topik Ini?
 
-> _"Saya mulai menggunakan agentic AI untuk menyusun materi kuliah — dan menyadari bahwa
+> _"Saya mulai menggunakan AI agentik untuk menyusun materi kuliah — dan menyadari bahwa
 > alur yang sama bisa menghasilkan buku ber-ISBN dalam hitungan minggu, bukan tahun."_
 
 - Rutin **menyusun materi kuliah** & membimbing tugas akhir mahasiswa

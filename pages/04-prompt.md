@@ -40,7 +40,7 @@ istilah tidak konsisten.
 "Tulis Bab 2 tentang jaringan komputer
 untuk buku ajar MK Jaringan Komputer,
 program studi Informatika S1 semester 3.
-Gaya: akademik tapi accessible.
+Gaya: akademik tapi mudah dipahami.
 Glosarium: [lampiran].
 RPS acuan: [lampiran].
 Outline bab: [lampiran]."
